@@ -2,7 +2,7 @@
 
 # Samiullah "Leo" Mohammadi
 
-### Web Developer · Educator · Author · Youth Leader
+### Web Developer · Educator · Author · Youth Leader · HUMAN
 
 📍 Kunduz, Afghanistan &nbsp;·&nbsp; 🏫 Web Development Instructor @ Future Bridge NPO &nbsp;·&nbsp; ✍️ Author of Two Books
 
