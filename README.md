@@ -21,7 +21,7 @@ I build full-stack web applications that solve real problems for institutions an
 - 🔭 Currently building a **web-based ASL sign language avatar** using Three.js
 - 🌱 Working across PHP, Laravel, MySQL, JavaScript, Python, Java, Bootstrap & Tailwind CSS
 - 🗣️ Fluent in Dari/Persian & English
-- 📚 Author of two published books
+- 📚 Author of two books: ME IN INFINI & JAWAR-E-BERYAN
 - 🤝 Active in youth empowerment & community initiatives across Afghanistan
 
 ---
