@@ -4,7 +4,7 @@
 
 ### Web Developer · Educator · Author · Youth Leader
 
-📍 Kunduz, Afghanistan &nbsp;·&nbsp; 🏫 Web Development Instructor @ Future Bridge NPO &nbsp;·&nbsp; ✍️ Published Author of Two Books
+📍 Kunduz, Afghanistan &nbsp;·&nbsp; 🏫 Web Development Instructor @ Future Bridge NPO &nbsp;·&nbsp; ✍️ Author of Two Books
 
 <a href="https://linkedin.com/in/samimuhammadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/samimuhammadi_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -24,7 +24,7 @@ Outside of code, I teach web development at Future Bridge NPO, mentor young deve
 - 🔭 Currently building a **web-based ASL sign language avatar** using Three.js
 - 🌱 Backend-heavy stack: PHP, Laravel, MySQL — frontend: JavaScript, Bootstrap, Tailwind CSS — plus Python & Java
 - 🗣️ Fluent in Dari/Persian & English
-- 📚 Author of two published books
+- 📚 Author of twO books: ME IN INFINI 2027 & JAWAR-E-BERYAN 2028
 - 🤝 Active in youth empowerment & community initiatives across Afghanistan
 
 <br>
