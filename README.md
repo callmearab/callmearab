@@ -1,32 +1,57 @@
-<h1 align="center">Hi, I'm Samiullah "Leo" Mohammadi 👋</h1>
-<h3 align="center">Web Developer · Educator · Youth Leader · Author</h3>
+<div align="center">
 
-<p align="center">
-  📍 Kunduz, Afghanistan &nbsp;|&nbsp; 🏫 Web Development Instructor @ Future Bridge NPO &nbsp;|&nbsp; ✍️ Published Author
-</p>
+# Samiullah "Leo" Mohammadi
 
-<p align="center">
-  <a href="https://linkedin.com/in/samimuhammadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/samimuhammadi_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/_m4shal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:samimohammadi@aol.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### Web Developer · Educator · Author · Youth Leader
 
----
+📍 Kunduz, Afghanistan &nbsp;·&nbsp; 🏫 Web Development Instructor @ Future Bridge NPO &nbsp;·&nbsp; ✍️ Published Author of Two Books
 
-### 🚀 About Me
+<a href="https://linkedin.com/in/samimuhammadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/samimuhammadi_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/_m4shal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:samimohammadi@aol.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-I build full-stack web applications that solve real problems for institutions and communities in Afghanistan — from certificate verification platforms to real estate management systems, often with bilingual (Dari/English) and RTL-first design. I also teach web development and mentor young developers through Future Bridge NPO.
+</div>
+
+<br>
+
+## About Me
+
+I build full-stack web applications that solve real problems for institutions and communities in Afghanistan — certificate verification systems, real estate management platforms, educational tools — almost always with bilingual (Dari/English) and RTL-first design at the core, not bolted on afterward.
+
+Outside of code, I teach web development at Future Bridge NPO, mentor young developers, and write. I've published two books, and a lot of my work is driven by the same idea: build things that make Afghan institutions and communities more capable.
 
 - 🔭 Currently building a **web-based ASL sign language avatar** using Three.js
-- 🌱 Working across PHP, Laravel, MySQL, JavaScript, Python, Java, Bootstrap & Tailwind CSS
+- 🌱 Backend-heavy stack: PHP, Laravel, MySQL — frontend: JavaScript, Bootstrap, Tailwind CSS — plus Python & Java
 - 🗣️ Fluent in Dari/Persian & English
-- 📚 Author of two books: ME IN INFINI & JAWAR-E-BERYAN
+- 📚 Author of two published books
 - 🤝 Active in youth empowerment & community initiatives across Afghanistan
 
----
+<br>
 
-### 🛠️ Tech Stack
+## Tools & Editors
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-1F1F1F?style=flat-square&logo=laragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
+</p>
+
+<br>
+
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -41,22 +66,22 @@ I build full-stack web applications that solve real problems for institutions an
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
----
+<br>
 
-### 📌 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
 | **ARTMS** | Afghanistan Real Estate & Transaction Management System — Laravel 12, 15+ models, RTL Dari UI, PDF/Word contract export, QR verification |
 | **Wayfinder** | Full-stack educational platform with watermarked PDF certificates — PHP/MySQL/Bootstrap |
-| **ZeroOps** | AI-powered business automation platform with rule-based chat engine — PHP/MySQL, security-hardened |
-| **CVBuilder** | Resume builder with 20+ templates — Next.js 15, deployed on Vercel |
+| **ZeroOps** | AI-powered business automation platform with a rule-based chat engine — PHP/MySQL, security-hardened |
+| **CVBuilder** | Resume builder with 20+ templates, deployed on Vercel |
 | **Nasj Honey Store** | Bilingual (Persian/English) honey brand e-commerce site with WhatsApp ordering |
 | **Future Bridge Certificate System** | RTL certificate management app migrating 251+ institutional records — PHP/MySQL |
 
----
+<br>
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=callmearab&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -67,6 +92,10 @@ I build full-stack web applications that solve real problems for institutions an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmearab&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
-<p align="center"><i>Building for Afghanistan, one project at a time 🇦🇫</i></p>
+<div align="center">
+
+*Building for Afghanistan, one project at a time* 🇦🇫
+
+</div>
