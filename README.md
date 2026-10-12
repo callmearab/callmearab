@@ -112,6 +112,10 @@ Outside of code, I lead Future Bridge International Academy, teach database syst
 ## GitHub Stats
 
 <p align="center">
+  <strong>🟩 670+ contributions</strong>
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=callmearab&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=callmearab&theme=tokyonight&hide_border=true" />
 </p>
