@@ -2,14 +2,15 @@
 
 # Samiullah "Leo" Mohammadi
 
-### Web Developer · Educator · Author · Youth Leader · HUMAN
+### Full-Stack Web Developer · Database Architect · Educator · Youth Leader
 
-📍 Kunduz, Afghanistan &nbsp;·&nbsp; 🏫 Web Development Instructor @ Future Bridge NPO &nbsp;·&nbsp; ✍️ Author of Two Books
+📍 Kunduz, Afghanistan &nbsp;·&nbsp; 🏫 Academy Director @ Future Bridge International Academy &nbsp;·&nbsp; 🎓 B.Sc. Computer Science @ Kunduz University
 
+<a href="https://samimohammadi.site"><img src="https://img.shields.io/badge/Website-samimohammadi.site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/samimuhammadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/samimuhammadi_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/_m4shal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:samimohammadi@aol.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:dm@samimohammadi.site"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -17,15 +18,50 @@
 
 ## About Me
 
-I build full-stack web applications that solve real problems for institutions and communities in Afghanistan — certificate verification systems, real estate management platforms, educational tools — almost always with bilingual (Dari/English) and RTL-first design at the core, not bolted on afterward.
+I build full-stack systems for schools, nonprofits, and small businesses in Afghanistan: certificate management, financial tools, institution management, and online learning platforms. Bilingual Dari/English and RTL-first design are part of the foundation from day one, not added afterward.
 
-Outside of code, I teach web development at Future Bridge NPO, mentor young developers, and write. I've published two books, and a lot of my work is driven by the same idea: build things that make Afghan institutions and communities more capable.
+Outside of code, I lead Future Bridge International Academy, teach database systems (MySQL, SQL, RDBMS) and web development to university students, and mentor young developers. I also run **Nasj Honey** (عسل نسج), a honey business based in Kunduz.
 
-- 🔭 Currently building a **web-based ASL sign language avatar** using Three.js
-- 🌱 Backend-heavy stack: PHP, Laravel, MySQL — frontend: JavaScript, Bootstrap, Tailwind CSS — plus Python & Java
-- 🗣️ Fluent in Dari/Persian & English
-- 📚 Author of twO books: ME IN INFINI 2027 & JAWAR-E-BERYAN 2028
-- 🤝 Active in youth empowerment & community initiatives across Afghanistan
+- 🔭 **Currently building:** a web-based ASL sign language avatar with Three.js
+- 🌱 **Backend:** PHP, Laravel, MySQL, Python, Java · **Frontend:** JavaScript, Tailwind CSS, Bootstrap, React
+- ☁️ **Shipping with:** Vercel, Google Apps Script, self-hosted PHP/MySQL stacks
+- 🗣️ **Languages:** Dari/Persian (native) · Pashto (fluent) · English (C1) · Arabic (reading)
+- 📚 **Author of two books:** ME IN INFINI 2027 & JAWAR-E-BERYAN 2028
+- 🤝 Active in youth empowerment and community initiatives across Afghanistan
+
+<br>
+
+## Featured Projects
+
+| Project | What it is |
+|---|---|
+| **ARTMS** | Afghanistan Real Estate & Transaction Management System: Laravel 12, 15+ models, RTL Dari UI, PDF/Word contract export, QR verification |
+| **Daftari** | Dari financial management system for Afghan businesses: PHP/MySQL |
+| **Future Bridge Certificate System** | RTL certificate and class management app that migrated 251+ institutional records: PHP/MySQL |
+| **Pol Aynda Institution System** | Institution management system for Pol Aynda / Future Bridge NPO: PHP/MySQL |
+| **Wayfinder** | Course and certification platform with watermarked PDF certificates: PHP, MySQL, Bootstrap 5 |
+| **ResumeForge** | Open-source, self-hosted resume builder with a 9-step guided wizard: PHP, MySQL, Tailwind CSS |
+| **CVBuilder** | Resume builder with 20+ templates, deployed on Vercel |
+| **OpenPath** | AI-powered discovery of scholarships, courses, and internships matched to academic profiles: Python |
+| **RusPath & KZ Interview Prep** | Scholarship exam simulator and university interview prep platform: React, Tailwind CSS, Google Apps Script |
+| **ZeroOps** | AI-powered business automation platform with a rule-based chat engine: PHP/MySQL, security-hardened |
+| **Nasj Honey** | Bilingual Persian/English honey brand site with WhatsApp ordering |
+| **Turkish Class Portal** | Registration portal for Turkish language classes |
+
+**Live sites:** [futurebridgeif.org](https://futurebridgeif.org) · [smartwithai.vercel.app](https://smartwithai.vercel.app) · [mindiresearch.vercel.app](https://mindiresearch.vercel.app)
+
+<br>
+
+## Experience
+
+- **Academy Director**, Future Bridge International Academy · Future Bridge NPO *(Dec 2024 – Present)*
+- **Web Course Instructor**, Kunduz University *(2024 – Present)*
+- **Freelance Developer**, Upwork *(2025 – Present)*
+- **Regional Ambassador**, International Computer Science Challenge (ICSC), Kunduz *(2025 – Present)*
+- **Junior Ambassador**, University of the People *(2025 – Present)*
+- **B.Sc. Computer Science (IT)**, Kunduz University *(2024 – 2028)*
+
+🎓 **Recent certifications:** Machine Learning with Python, University of Illinois Urbana-Champaign (2026) · Web Development Mastery, Board Infinity (2026) · Programming with Generative AI, IIT Guwahati via Coursera (2026)
 
 <br>
 
@@ -47,6 +83,7 @@ Outside of code, I teach web development at Future Bridge NPO, mentor young deve
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 <br>
@@ -57,6 +94,9 @@ Outside of code, I teach web development at Future Bridge NPO, mentor young deve
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -64,20 +104,8 @@ Outside of code, I teach web development at Future Bridge NPO, mentor young deve
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
-
-<br>
-
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| **ARTMS** | Afghanistan Real Estate & Transaction Management System — Laravel 12, 15+ models, RTL Dari UI, PDF/Word contract export, QR verification |
-| **Wayfinder** | Full-stack educational platform with watermarked PDF certificates — PHP/MySQL/Bootstrap |
-| **ZeroOps** | AI-powered business automation platform with a rule-based chat engine — PHP/MySQL, security-hardened |
-| **CVBuilder** | Resume builder with 20+ templates, deployed on Vercel |
-| **Nasj Honey Store** | Bilingual (Persian/English) honey brand e-commerce site with WhatsApp ordering |
-| **Future Bridge Certificate System** | RTL certificate management app migrating 251+ institutional records — PHP/MySQL |
 
 <br>
 
@@ -85,7 +113,7 @@ Outside of code, I teach web development at Future Bridge NPO, mentor young deve
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=callmearab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=callmearab&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=callmearab&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -97,5 +125,7 @@ Outside of code, I teach web development at Future Bridge NPO, mentor young deve
 <div align="center">
 
 *Building for Afghanistan, one project at a time* 🇦🇫
+
+<sub>Last updated: October 2026</sub>
 
 </div>
